@@ -1,0 +1,2 @@
+OLLASUPER_GITHUB_CONNECTOR_QA_TEST
+This file was created for connector testing.
